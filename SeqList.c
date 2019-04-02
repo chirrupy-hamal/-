@@ -1,3 +1,5 @@
+//VS08±‡“Îª∑æ≥
+
 #include"SeqList.h"
 #include<stdio.h> 
 #include<assert.h>
