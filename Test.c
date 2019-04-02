@@ -1,6 +1,5 @@
 #include"SeqList.h"
 
-
 void Test()
 {
 	SeqList seqlist;
